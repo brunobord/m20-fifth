@@ -6,6 +6,6 @@ M20 Fifth is a microlite version of 5e D&D.
 
 ## License
 
-The original M20 Fifth is published under the terms of the Open Game License, so is this "markdownization".
+The original M20 Fifth is published under the terms of the Open Game License, so is this "markdownization". See the [LICENSE.md](LICENSE.md) file for more details.
 
 This game is &copy; 2017, Roberto Kingsley
