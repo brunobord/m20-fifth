@@ -1,9 +1,4 @@
-<!-- 
-<img src='https://i.imgur.com/uXOvXbn.jpg' style='position:absolute;bottom:0px;right:0px;width:100%' />
--->
-
-
-# M20 Fifth: Adamantine Edition 
+# M20 5e: Édition d'Adamantine 
 
 [TOC]
 
