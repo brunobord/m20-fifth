@@ -5,20 +5,29 @@
 
 # M20 Fifth: Adamantine Edition 
 
+[TOC]
+
 ## Qu'est-ce que c'est ?
 Il s'agit d'une version réduite et subminiaturisée de la cinquième édition du jeu de rôle le plus populaire du monde (voir la licence pour plus d'informations) qui a été conçue pour être rapide et facile à jouer.
+
 Le but était de créer un jeu plus simple, mais où toutes les ressources de la cinquième édition (monstres, sorts, aventures & équipement) pourraient être utilisées sans conversion.
 
 ## Pour démarrer
-Formez un groupe de 2 à 6 personnes avec des dés, du papier et des crayons. L'un des joueurs est le **Maitre du jeu (MJ)**, qui exécute tous les personnages **non-joueurs (PNJ)**, il décrit l'environnement et détermine le résultat des jets.
- Les autres jouent des  **personnage-joueurs (PJ)**. Mettez-vous d'accord sur un **concept de jeu**, puis chaque joueur crée un **concept de personnage** qui convient. Le jeu se joue en grande partie par le biais d'un dialogue, les joueurs décrivent les tentatives d'actions de leur PJ & le MJ utilise les dés ou règles qui sont nécessaires, pour résoudre l' action. Un groupe de personnages est généralement appelé une **partie** ou un **groupe**. Votre groupe pourra interagir,  avec les PJ et les PNJ et avec l'univers, le tout sous la direction du MJ, des dés et des règles.Pour jouer, vous avez besoin , de ces règles, d'un jeu de dés polyédriques, & d' un bloc-notes. Chaque joueur devrait au moins avoir une compréhension passagère des règles, & le MJ devrait en savoir assez pour faire des personnages & exécuter les bases.
+Formez un groupe de 2 à 6 personnes avec des dés, du papier et des crayons. L'un des joueurs est le **Maitre du jeu (MJ)**, qui exécute tous les personnages **non-joueurs (PNJ)**, il décrit l'environnement et détermine le résultat des jets.Les autres jouent des  **personnage-joueurs (PJ)**.
+
+Mettez-vous d'accord sur un **concept de jeu**, puis chaque joueur crée un **concept de personnage** qui convient. Le jeu se joue en grande partie par le biais d'un dialogue, les joueurs décrivent les tentatives d'actions de leur PJ & le MJ utilise les dés ou règles qui sont nécessaires, pour résoudre l' action. 
+
+Un groupe de personnages est généralement appelé une **partie** ou un **groupe**. Votre groupe pourra interagir,  avec les PJ et les PNJ et avec l'univers, le tout sous la direction du MJ, des dés et des règles.Pour jouer, vous avez besoin , de ces règles, d'un jeu de dés polyédriques, & d' un bloc-notes.
+
+Chaque joueur devrait au moins avoir une compréhension passagère des règles, & le MJ devrait en savoir assez pour faire des personnages & exécuter les bases.
 
 ### Dés Polyhedral
+
 Ce jeu utilise des dés à 4, 6, 8, 10, 12 et 20 faces. La notation habituelle pour les dés est XdY, ce qui signifie lancer X dés avec des côtés Y faces. (2d6 = deux dés à six faces, 1d12 = un dé à douze faces.) Si vous n'avez pas un jeu de dés polyédriques, les approximations suivantes avec des d6's vous rapprocheront suffisamment :
 
 | d4 | d8 | d10 | d12 | d20 |
 |:--:|:--:|:---:|:---:|:---:|
-|  ou d6-1 (relancer 1/6)  ou d 6 (relancer 5/6) | d6+1 | d6+2 | 2d6 | 3d6 (16-18 crits) |
+|  ou d6-1 (relancer 1/6)  ou d6 (relancer 5/6) | d6+1 | d6+2 | 2d6 | 3d6<br />(16-18 crits) |
 
 ### Notes explicatives
 M20 5e sera plus facile à comprendre si vous êtes déjà familier avec les RPG. Pour le lecteur peu familier, les brèves explications suivantes sont offertes :
@@ -35,11 +44,11 @@ M20 5e sera plus facile à comprendre si vous êtes déjà familier avec les RPG
 
 ### Statistiques
 Il y a 3 statistiques : Force (**FO**), Dextérité (**DEX**) et Esprit (**ESP**). 
-___
+
 Lancez 4d6, jetez le dé le plus bas. Faites le total des 3 dés restants et allouez-les à l'une des statistiques. Répétez l'opération pour les autres statistiques.
-___
+
 Alternativement, vous pouvez utiliser les valeurs 15, 12, 8.
-___
+
 Bonus Stat = (STATISTIQUE-10)/2, arrondi à l'inférieur.
 
 ### Races
@@ -57,7 +66,7 @@ Bonus Stat = (STATISTIQUE-10)/2, arrondi à l'inférieur.
 Les classes sont **Guérrier, Roublard, Magicien et clerc**. Les personnages commencent au niveau 1 avec un **bonus de maitrise** de +2.
 
 #### Guérrier
-___
+
 * **Compétences & maîtrise jds** : Physique, FO Sauvegarde
 * **Maîtrise des armures** : Toutes les armures, bouclier.
 * **Endurance améliorée** : +3 à PV par niveau. Lorsque vous
@@ -68,7 +77,7 @@ prenez de courtes 3 PV par dé de repos dépensé..
 * **Equipement de départ** : cotte de mailles (+6 AC armure lourde), bouclier, une arme (et munitions si applicable), 10 gp, un pack rapide (voir Equipement)
 
 #### Roublard
-___
+
 * **Compétences & maîtrise jds**: Subterfuge, DEX saves
 * **Maitrise des armures :** Armure légère
 * **Attaque furtive**: Chaque fois que vous avez l'avantage, ou que votre cible est distraite dans un combat en mêlée avec un autre ennemi, vous pouvez ajouter[1/2-niveau, arrondi] d6 à vos dégâts.
@@ -77,7 +86,7 @@ ___
 
 
 #### Mage
-___
+
 * **Compétences & maîtrise jds**:  La connaissance, jds ESP
 * **Maitrise des armures**: non
 * **Style de Sort**: Choisissez **un sort ou un sort mineur (CANTRIP)**, Lancer **le sort** coûte 1 PM de moins.
@@ -85,7 +94,7 @@ ___
 * **Equipement de départ**: grimoire, baguette, 10 gp, un pack rapide (voir Equipement)
 
 #### Cleric
-___
+
 * **Compétences & maîtrise jds**: Communication, Esp Saves
 * **Maitrise des armures**: Armure moyenne, bouclier
 * **Lancement de sorts Divin**: Voir rubrique Magie  pour plus d'information.
@@ -104,18 +113,22 @@ Chaque personnage doit  choisir un historique qui lui permet de maîtriser une c
 > **Règle facultative (spécialisation)**: Si un PJ a un historique qui lui permet d'acquérir une compétence qu'il a déjà de par sa classe, il peut ajouter 2x sa prime de compétence aux jets de d20 
 
 ### Compétences et jets de sauvegardes
-Il n'y a que 4 compétences : 
-**Physique, subterfuge, connaissance et communication**. jet de dé égal ou supérieur au **D**egrés de **D**ifficulté donnée (**DD** ou **DC** ) ou au jet opposé pour réussir. 
 
-**caractéristique/sauvegarde du jet = d20 + bonus statistique + (bonus de compétence)**.
-___
+Il n'y a que 4 compétences : **Physique, subterfuge, connaissance et communication**. jet de dé égal ou supérieur au **D**egrés de **D**ifficulté donnée (**DD** ou **DC** ) ou au jet opposé pour réussir. 
+
+**Caractéristique/Sauvegarde du jet = d20 + bonus statistique + (bonus de compétence)**.
+
 Par exemple, l'escalade utiliserait FORCE + bonus physique. Éviter une chute de pierre, c'est DEX + bonus physique. Trouver un piège est un bonus ESPRIT + Subterfuge. Désactiver un piège est un bonus DEX + Subterfuge.
 
-#### commun DD ou DC (degrés de difficultées)
+#### Commun DD ou DC (degrés de difficultées)
 
 
-* **Vraiment facile**: 5 **Facile**: 10 **Moyen**: 15
-* **Durt**: 20 **Trés durt**: 25  **Quasi impossible**: 30
+* **Vraiment facile**: 5 
+* **Facile**: 10 
+* **Moyen**: 15
+* **Durt**: 20 
+* **Trés durt**: 25  
+* **Quasi impossible**: 30
 
 #### Advantage & Désavantage
 
@@ -126,9 +139,9 @@ Parfois le GM peut choisir de donner un Avantage ou un Désavantage, pour une ac
 ## Magie
 
 Tous les lanceurs de sorts ont des Points de Magie (PM) = à leur PV maxi. Ils peuvent lancer des sorts d'un niveau = ½ x leur niveau de classe, arrondi au supérieur. Utilisez les sorts de l'annexe B ou le système de sorts de l'annexe C. Alternativement, les lanceurs connaissent au total, 6 sorts de n'importe quel niveau de sort auquel ils ont accès à partir de la 5eme édition des règles de base de D&D.
-___
+
 **Concentration** : Certains sorts exigent de la concentration. Lorsqu'il se concentre sur un sort, un lanceur de sorts ne peut lancer qu' un sorts de concentration à la fois . Si un lanceur est touché alors qu'il se concentre sur un sort, il doit faire un jds ESP : DD 10. un succès :le sort est maintenu, échec : le sort est dissipé ou ne fait que 1/2 des dégats.
-___
+
 Lancer un sort, quel qu'il soit, nécessite des points magiques. Le coût est de: **1 + le double niveau du sort lancé**
 
 | Niveau de sort | PM Côut |
@@ -145,11 +158,11 @@ Lancer un sort, quel qu'il soit, nécessite des points magiques. Le coût est de
 
 Le DD du jds pour résister aux  sort d'un lanceur de sorts est : **8 + bonus ESP + bonus de maîtrise**
 
-> #### Règles facultatives
+>**Règles facultatives**
 >* **Magie du sang**: Au lieu d'avoir PM = PV, un lanceur de sorts a PM =1/2 x HP. En plus, il  peut choisir de diminuer ses PV total en les convertissant en PM à raison de 2 PV = 1 PM.
-* **Lancer un sort méthode Rituel**: Un lanceur de sorts peut lancer n'importe quel sort sans dépenser de PM s'il prend 10 minutes supplémentaires pour lancer le sort.
+>* **Lancer un sort méthode Rituel**: Un lanceur de sorts peut lancer n'importe quel sort sans dépenser de PM s'il prend 10 minutes supplémentaires pour lancer le sort.
 
-### sorts mineur (CANTRIP)
+### Sorts mineur (CANTRIP)
 Un lanceur de sorts commence avec un nbre de CANTRIPs =[bonus ESP]. De types endommagent ou utile,
 un CANTRIP est un sort qui peut être jeté gratuitement sans coût en PM.
 
@@ -174,7 +187,7 @@ Vous pouvez faire un cantrip endommageant en utilisant le tableau ci-dessous - u
 #### CANTRIP utile
 
 Au lieu de cantrips endommagent , vous pouvez choisir l'un des cantrips utilitaires suivants :
-___
+
 * **Prestidigitation**: Effectuer des petits tours pendant 1 heure.
 * **Son Fantôme**: l' alarme sonne pendant 1 minute.
 * **Main du mage**: 2.5 kg de télékinésie. Duré=concentration.
@@ -185,18 +198,18 @@ ___
 ## Combat
 Points de vie = (1d8 + bonus FO)/Niveau. Si PV atteint 0, inconscient et proche de la mort. A chaque round, faites des jets de d20 non modifiés pour éviter la mort. DD 10, doit obtenir trois succès avant trois échecs. 1 est un double échec 20 est un miracle vous revenez a 1 PV immédiatement
 sous le seuil de 0 si vos dégât subit sont = a votre maximum de PV vous êtes mort.
-___
+
 Lancez d20 + bonus DEX pour l'ordre d'initiative. Tout le monde peut bouger (30 pieds) et effectuer une action à chaque tour. Les actions comprennent : un mouvement supplémentaire (élancé), jeter un sort et attaquer. En outre, une seule action bonus peut être effectuée si elle est accordée par une caractéristique de classe, un sort ou une autre aptitude.
 
-___
+
 * **Bonus attaque de mélée = bonus FO + bonus de maîtrise**
 * **Bonus att de projectile = bonus DEX + bonus de maîtrise**
 * **Bonus att Magique = bonus ESP + bonus de maîtrise** 
-___
+
 Ajoutez le bonus d'attaque au jet de d20. Si la somme est = ou supérieure à la classe d' armure (CA) de votre adversaire, vous toucher. Un 20 naturel est automatiquement un coup critique faisant deux fois plus de dégâts.
-___
+
 Ajoutez le bonus FO aux dégâts de mêlée et le bonus DEX aux dégâts de projectiles.
-___
+
 **Classe d' Armure (CA) = 10 + bonus Armure + (bonus DEX).**
 
 > #### Règles facultatives
@@ -206,14 +219,14 @@ ___
 
 ### Guérison naturelle
 Les personnages ont des dés de repos égaux à leur niveau.
-___
+
 **Un repos court** dure 1 H, et un personnage peut dépenser des dés de repos pour regagner 1d8 + points de vie bonus STR par dé. Les lanceurs de sorts regagnent 2x leur valeur de niveau sur un court repos.
-___
+
 **Un long repos** dure 8 H. Un personnage regagne tous ses points de vie et ses points magiques, et la moitié de ses dés de repos totaux. Les lanceurs de sorts regagnent tous leurs points magiques sur un long repos.
 
 ### Dangers improvisés et pièges
 Utilisez les informations ci-dessous pour improviser des dégâts pour des choses comme être poussé dans un feu de camp ou tomber dans la lave.
-___
+
 Examples:
 * 3d6 - être poussé dans un feu de camp, tomber de 30 Ft
 * 6d6 - souffrir d'un effondrement, tomber de 60 pieds
@@ -228,59 +241,92 @@ Examples:
 
 ## Evolution des personnages
 Après chaque rencontre, additionnez la **Valeur de Défi (CR)** de chaque monstre, piège, etc. qui a été surmonté. Lorsque le total = 10 x votre niveau actuel, vous passez au niveau suivant. Réinitialisez le total à 0 après avoir avancé.
-___
+
 **Points de vie (PV)**: 1d8 + bonus de FO par niveau
-___
+
 **Bonus de maîtrise par niveau**: 1-4: +2; 5-8: +3; 10-12: +4; 13-16: +5; 17-20: +6
-___
+
 **Ability Score Increases (Casters)**: 4, 8, 12, 16, 19
-___
+
 **Augmentation du score d'habileté (Non-lanceurs de sorts)**: 4, 8, 10, 12, 16, 19
-___
->**Quand un personnage reçoit une augmentation de score de compétence, il gagne soit +2 à une statistique, soit +1 à deux statistiques (max 20).**
+
+Quand un personnage reçoit une augmentation de score de compétence, il gagne soit +2 à une statistique, soit +1 à deux statistiques (max 20).
 
 
 ## Bestiaire
 
 **Compétences & jds**: Utilisez le bonus  d'attaque  pour toutes les compétences et jds . Vous pouvez aussi assigner des statistiques au goût et utiliser le bonus statistique + (bonus de maîtrise) comme bonus de compétence..
 
-#### Explication des blocs
-___
+**Explication des blocs**
 
 **AC = CA** : classe d' armure, **HD = DV**: dé de vie, **hp = pv**: points de vie, **CR**: (Challenge Rating) un monstre CR X = bon défi pour 4 personnes de niveau X, ***nom d'attaque* +X/+X/+X/...** : exécuter *nom d'attaque* plusieurs fois en utilisant +X comme bonus d'attaque, **(dommages[dommages moyens], *nom de l'effet* jet du jds [effet])**, ***nom de l'attaque spéciale* jet lanceur (dommage / effet)**, **jds ½ des dégâts** : réduit de ½ si jds réussit.
-* **Animal, petit [ex: belette] (CR 0):** DV 1d4+1 (3 PV), CA 10, morsure +2 ([1])
-* **Ankheg (CR 2):** DV 6d10+6 (39 pv), CA 14, bite +5 (2d6+3, acid 1d6 [12]) ou pulvérisation acide DD 13 DEX (3d6 [10], save ½)
-* **Bugbear (CR 1):** DV 5d8+5 (27 pv), CA 16, morningstar +4 (2d8+2 [11]) or javelin +4 (1d6+2 [5])
-* **Choker (CR 1/2):** DV 3d6+3 (13 pv), CA 15, tentacule +4 (1d6+3 [5], agripper [échaper DD 14]) or constrict +4 (1d8+2 [6]) 
-* **Raptor (CR 1):** DV 3d8+3 (17 pv), CA 15, griffes +4/+4 (1d8+1 [6])
-* **Nid de Rats (CR 1/8):** DV 2d6 (7 pv), CA 12, bite +4 (1d4+2 [4])
-* **Earth Elemental (CR 5):** DV 12d10+60 (126 pv), CA 17, slam +8/+8 (2d8+5 [14]), damage resistance (½ damage from non-magical weapons)
-* **Gargoyle (CR 2):** DV 7d8+21 (52 pv), CA 15, griffes +4/+4 (1d6+2 [5]), résistance aux dommages(½ Dégâts des armes non magiques)
-* **Cube gélatineux  (CR 2):** DV 8d10+40 (84 pv), CA 6, engulf DD 12 DEX (3d6 [10], piégé et prise suffocante 6d6 [21]/tours), transparent (exige DD 15 ESP + Subterfuge bonus pour voir
-* **Goblin (CR 1/4):** DV 2d6 (7 pv), CA 15, cimetaire +4 (1d6+2 [5]) ou épée courte +4 (1d6+2 [5]
-* **Griffon (CR 2):** DV 7d10+21 (59 pv), CA 12, griffes +6/+6 (2d6+3 [10])
-* **Hell Hound (CR 3):** DV 7d8+14 (45 pv), CA 15, bite +5 (1d8+3, fire 2d6 [14]) or fire breath DD 12 DEX (6d6 [21], save ½)
-* **Hill Giant (CR 5):** DV 10d12+40 (105 pv), CA 13, greatclub +8/+8 (3d8+5 [18]) or rock +8 (3d10+5 [21])
-* **Hobgoblin (CR 1/2):** DV 2d8+2 (11 pv), CA 18, épée longue +3 (1d8+8 [12]) ou arc long +3 (1d8+8 [12])
-* **Human Commoner (CR 0):** DV 1d8 (4 pv), CA 10, club +2 (1d4 [2])
-* **Insect, small [eg Spider] (CR 0):** DV 1d4-1 (1 pv), CA 12, bite +4 ([1], poison DD 9 FO 1d4 [2])
-* **Kobold (CR 1/8):** DV 2d6-2 (5 pv), CA 12, dagger +6 (1d4+2 [4]) or sling +6 (1d4+2 [4])
-* **Ogre (CR 2):** DV 7d10+21 (59 pv), AC 11, greatclub +6 (2d8+4 [13]) or javelin +6 (2d6+4 [11])
-* **Orc (CR 1/2):** DV 2d8+6 (15 pv), AC 13, greataxe +5 (1d12+3 [9]) or javelin +5 (1d6+3 [6])
-* **Owlbear (CR 3):** DV 7d10+21 (59 pv), AC 13, claws +7/+7 (2d8+3 [12])
-* **Monstre de rouille (CR 1/2):** DV 5d8+5 (27 pv), CA 14, bite +3 (1d8+1 [5], rouille DD 11 DEX)
-* **Shadow (CR 1/2):** DV 3d8+3 (16 pv), CA 12, Aspiration de la vie +4 (2d6+2 [9], -1d4 FO), résistance aux dommages (½ des dommages causés par des armes non magiques)
-* **Skeleton (CR 1/4):** DV 2d8+4 (13 pv), CA 13, shortsword +4 (1d6+2 [5]) or shortbow +4 (1d6+2 [5])
-* **Stirge (CR 1/8):** DV 1d4 (2 pv), CA 14, blood drain +5 (1d4+3 [5], attach [5 dmg/turn])
-* **Stone Golem (CR 10):** DV 17d10+85 (178 pv), CA 17, slam +10/+10 (3d8+6 [19]) ou lent DD 17 jds ESP (vitesse réduite de ½, une attaque par tour), immunité contre les dégats et bléssé par des armes adamantines ou de la magie
-* **Troll (CR 5):** DV 8d10+40 (84 pv), CA 15, claw +7/+7/+7 (2d6+3 [10]), regenerate (+10 hp/turn, acid/fire negate)
-* **Vampire Spawn (CR 5):** DV 16d8+48 (120 pv), CA 15, bite +6/+6 (2d6+3 [10], life absorb DD 15 FO [reduit max HP by dmg taken, increase own HP by ½ dmg]), damage resistance (half damage from non-magical weapons), vampire weaknesses (cause 20 dmg/turn)
-* **Werewolf (hybrid form) (CR 3):** DV 9d8+18 (58 pv), CA 12, bite +4/+4 (1d8+2 [6], lycanthropy DD 12 FO), damage immunity (seulement blessé par des armes en argent ou de la magie
-* **Wight (CR 3):** DV 6d8+18 (45 pv), CA 14, slam +4/+4 (1d6+2 [5], life drain DD 13 FO [reduce max HP by dmg taken]) ou épée longue +4/+4 (1d8+2 [6])
-* **Wolf (CR 1/4):** DV 2d8+2 (11 pv), CA 13, bite +4 (2d4+2 [7], knock prone DD 11 FO)
-* **Wyvern (CR 6):** DV 13d10+39 (110 pv), CA 13, stinger +7/+7 (2d6+4 [11], poison DD 14 FO [24 dmg, save halves])
-* **Zombie (CR 1/4):** DV 3d8+9 (22 pv), CA 8, slam +3 (1d6+1 [4]), undead fortitude (instead of dying, zombie lives on a DD [5+dmg just taken] jds FO)
+
+**Animal, petit [ex: belette] (CR 0):** DV 1d4+1 (3 PV), CA 10, morsure +2 ([1])
+
+**Ankheg (CR 2):** DV 6d10+6 (39 pv), CA 14, bite +5 (2d6+3, acid 1d6 [12]) ou pulvérisation acide DD 13 DEX (3d6 [10], save ½)
+
+**Bugbear (CR 1):** DV 5d8+5 (27 pv), CA 16, morningstar +4 (2d8+2 [11]) or javelin +4 (1d6+2 [5])
+
+**Choker (CR 1/2):** DV 3d6+3 (13 pv), CA 15, tentacule +4 (1d6+3 [5], agripper [échaper DD 14]) or constrict +4 (1d8+2 [6]) 
+
+**Raptor (CR 1):** DV 3d8+3 (17 pv), CA 15, griffes +4/+4 (1d8+1 [6])
+
+**Nid de Rats (CR 1/8):** DV 2d6 (7 pv), CA 12, bite +4 (1d4+2 [4])
+
+**Earth Elemental (CR 5):** DV 12d10+60 (126 pv), CA 17, slam +8/+8 (2d8+5 [14]), damage resistance (½ damage from non-magical weapons)
+
+**Gargoyle (CR 2):** DV 7d8+21 (52 pv), CA 15, griffes +4/+4 (1d6+2 [5]), résistance aux dommages(½ Dégâts des armes non magiques)
+
+**Cube gélatineux  (CR 2):** DV 8d10+40 (84 pv), CA 6, engulf DD 12 DEX (3d6 [10], piégé et prise suffocante 6d6 [21]/tours), transparent (exige DD 15 ESP + Subterfuge bonus pour voir
+
+**Goblin (CR 1/4):** DV 2d6 (7 pv), CA 15, cimetaire +4 (1d6+2 [5]) ou épée courte +4 (1d6+2 [5]
+
+**Griffon (CR 2):** DV 7d10+21 (59 pv), CA 12, griffes +6/+6 (2d6+3 [10])
+
+**Hell Hound (CR 3):** DV 7d8+14 (45 pv), CA 15, bite +5 (1d8+3, fire 2d6 [14]) or fire breath DD 12 DEX (6d6 [21], save ½)
+
+**Hill Giant (CR 5):** DV 10d12+40 (105 pv), CA 13, greatclub +8/+8 (3d8+5 [18]) or rock +8 (3d10+5 [21])
+
+**Hobgoblin (CR 1/2):** DV 2d8+2 (11 pv), CA 18, épée longue +3 (1d8+8 [12]) ou arc long +3 (1d8+8 [12])
+
+**Human Commoner (CR 0):** DV 1d8 (4 pv), CA 10, club +2 (1d4 [2])
+
+**Insect, small [eg Spider] (CR 0):** DV 1d4-1 (1 pv), CA 12, bite +4 ([1], poison DD 9 FO 1d4 [2])
+
+**Kobold (CR 1/8):** DV 2d6-2 (5 pv), CA 12, dagger +6 (1d4+2 [4]) or sling +6 (1d4+2 [4])
+
+**Ogre (CR 2):** DV 7d10+21 (59 pv), AC 11, greatclub +6 (2d8+4 [13]) or javelin +6 (2d6+4 [11])
+
+**Orc (CR 1/2):** DV 2d8+6 (15 pv), AC 13, greataxe +5 (1d12+3 [9]) or javelin +5 (1d6+3 [6])
+
+**Owlbear (CR 3):** DV 7d10+21 (59 pv), AC 13, claws +7/+7 (2d8+3 [12])
+
+**Monstre de rouille (CR 1/2):** DV 5d8+5 (27 pv), CA 14, bite +3 (1d8+1 [5], rouille DD 11 DEX)
+
+**Shadow (CR 1/2):** DV 3d8+3 (16 pv), CA 12, Aspiration de la vie +4 (2d6+2 [9], -1d4 FO), résistance aux dommages (½ des dommages causés par des armes non magiques)
+
+**Skeleton (CR 1/4):** DV 2d8+4 (13 pv), CA 13, shortsword +4 (1d6+2 [5]) or shortbow +4 (1d6+2 [5])
+
+**Stirge (CR 1/8):** DV 1d4 (2 pv), CA 14, blood drain +5 (1d4+3 [5], attach [5 dmg/turn])
+
+**Stone Golem (CR 10):** DV 17d10+85 (178 pv), CA 17, slam +10/+10 (3d8+6 [19]) ou lent DD 17 jds ESP (vitesse réduite de ½, une attaque par tour), immunité contre les dégats et bléssé par des armes adamantines ou de la magie
+
+**Troll (CR 5):** DV 8d10+40 (84 pv), CA 15, claw +7/+7/+7 (2d6+3 [10]), regenerate (+10 hp/turn, acid/fire negate)
+
+**Vampire Spawn (CR 5):** DV 16d8+48 (120 pv), CA 15, bite +6/+6 (2d6+3 [10], life absorb DD 15 FO [reduit max HP by dmg taken, increase own HP by ½ dmg]), damage resistance (half damage from non-magical weapons), vampire weaknesses (cause 20 dmg/turn)
+
+**Werewolf (hybrid form) (CR 3):** DV 9d8+18 (58 pv), CA 12, bite +4/+4 (1d8+2 [6], lycanthropy DD 12 FO), damage immunity (seulement blessé par des armes en argent ou de la magie
+
+**Wight (CR 3):** DV 6d8+18 (45 pv), CA 14, slam +4/+4 (1d6+2 [5], life drain DD 13 FO [reduce max HP by dmg taken]) ou épée longue +4/+4 (1d8+2 [6])
+
+**Wolf (CR 1/4):** DV 2d8+2 (11 pv), CA 13, bite +4 (2d4+2 [7], knock prone DD 11 FO)
+
+**Wyvern (CR 6):** DV 13d10+39 (110 pv), CA 13, stinger +7/+7 (2d6+4 [11], poison DD 14 FO [24 dmg, save halves])
+
+**Zombie (CR 1/4):** DV 3d8+9 (22 pv), CA 8, slam +3 (1d6+1 [4]), undead fortitude (instead of dying, zombie lives on a DD [5+dmg just taken] jds FO)
+
 ## Equipement
+
 ### Monnaie
 La pièce la plus courante est la pièce d'or (gp). Une pièce d'or vaut 10 pièces d'argent (pa). Chaque pièce d'argent vaut 10 pièces de cuivre (pc). Une pièce de platine (pp) vaut 10 po.
 
@@ -298,12 +344,12 @@ Le coût de l'armure est égal au bonus CA multiplié par 5, au carré.
 * **Armure Medium**: +3, + 4, +5 add bonus DEX (max 2)
 * **Armure lourde**: +6, +7, +8 pas de bonus DEX, désavantage sur les jets subterfuges impliquant la furtivité
 * **Bouclier** (10 gp): +2
-___
+
 Le bardage pour chevaux coûte 4 fois plus cher que l'armure humaine, et pèse 2 fois plus.
 
 ### Armes
-Utilisez soit des armes tirées des Règles de base de la cinquième édition, soit le tableau ci-dessous pour improviser des armes.
 
+Utilisez soit des armes tirées des Règles de base de la cinquième édition, soit le tableau ci-dessous pour improviser des armes.
 
 #### dégats des armes/classe (coût des armes)
 | Class | Light  (2 gp) | 1-handed (10 gp) | 2-handed (40 gp) | Ranged (†) |
@@ -314,21 +360,22 @@ Utilisez soit des armes tirées des Règles de base de la cinquième édition, s
 | Clerc | 1d4 | 1d6 | 1d10 | 1d6|
 
 † Coût des armes à distance : 50 gp (arme à base de munitions), 1 gp (20 munitions) / 1 gp (arme lancée)
-```
-```
+
+
 ### Autre équipement
  Pour déterminer un prix raisonnable pour l'équipement, utilisez le tableau suivant (par exemple, un rouleau de lit coûterait 10 gp, puisqu'il s'agit de deux syllabes) :
 
 | Type d'objet | Coût | 
 |:-:|:-:|
-|Objets communs | 1 Pc x nombre de syllabes |
+|Objets communs | 1 pc x nombre de syllabes |
 | Équipement d'aventurier/camping | 5 po x nombre de syllabes |
 | Outils spécialisés, Animaux | 10 po x nombre de syllabes |
 | Articles de luxe | 25 po x nombre de syllabes |
 | Objets mortels, animaux dangereux | 100 po x nombre de syllabes |
 	 	 	 	 	 	
 ### Paquetage rapide
-Choisissez un paquetage, ou lancez 1d6 pour en sélectionner un au hasard..
+Choisissez un paquetage, ou lancez 1d6 pour en sélectionner un au hasard.
+
 * **Pack A** (1-2): sac à dos, poche de ceinture, couvre-lit, lanterne à capuchon, 10 fioles d'huile, silex et acier, pelle, 2 jeux de caltrops, sifflet de signalisation, gourde, rations  (4 jours)
 * **Pack B** (3-4): sac à dos, poche de ceinture, couvre-lit, 10 torches, 4 fioles d'huile, silex et acier, 10 morceaux de craie, 10' steel, miroir, barre à mine, gourde, rations  (4 jours)
 * **Pack C** (5-6): sac à dos, sac de ceinture, couvre-lit, tente, 10 torches, 5 fioles d'huile, flint & steel, corde de 50', grappin, perche de 10', peau d'eau, rations  (4 jours)
@@ -338,31 +385,37 @@ Chaque fois que les joueurs veulent essayer quelque chose qui va autour, à trav
 
 Un jet de 1 à 10 est un échec, un jet de 11 à 20 est un succès. Si vous pensez que la situation justifie que vous les favorisez, attribuez un avantage à leur lancer. Si la situation détermine qu'elles sont entravées, attribuer le désavantage.
 
+----
+
 ## Annexe A : Options de combat supplémentaires
 Le système de combat du M20 Fifth est conçu pour être simple & facile, mais si vous désirez plus de complexité, les options suivantes sont offertes :
 
 * **Surprise**: Si une créature ne parvient pas à percevoir (ESPRIT + Subterfuge) une autre créature se cachant (DEX + Subterfuge) avant une bataille, elle commence le combat surprise. Une créature surprise est incapable de bouger, d'agir ou de réagir jusqu'à ce que le premier round de combat soit terminé.
 * **Reactions**: Un personnage peut faire une réaction par tour quand ce n'est pas son tour. Les réactions typiques sont les suivantes :
-* **Attaques d'opportunité**: Lorsqu'un adversaire tente d'échapper à votre portée sans faire l'action de Désengagement (voir ci-dessous), vous pouvez faire une seule attaque contre lui.
-* **lancer Certain Sorts**: Des sorts comme Chute de plumes de l'annexe B ou Contre-sort de la 5ème édition des Règles de base peuvent être lancés en réaction plutôt qu'en action.
+  * **Attaques d'opportunité**: Lorsqu'un adversaire tente d'échapper à votre portée sans faire l'action de Désengagement (voir ci-dessous), vous pouvez faire une seule attaque contre lui.
+  * **lancer Certain Sorts**: Des sorts comme Chute de plumes de l'annexe B ou Contre-sort de la 5ème édition des Règles de base peuvent être lancés en réaction plutôt qu'en action.
 * **Désengage**: Un personnage peut prendre une action de désengagement afin de retraiter en toute sécurité sans provoquer une attaque d'opportunité de la part de ses adversaires.
 * **Esquive**: Un personnage peut faire une action d'esquive, en accordant un désavantage sur toutes les attaques jusqu'à son prochain tour.
 * **Prêt pour une action**: Au lieu d'agir à votre tour, vous pouvez préparer une action. La préparation d'une action retarde votre action jusqu'à ce que vous utilisiez une réaction pour la déclencher plus tard dans le tour.
 * **mettre ko**: Lorsqu'un attaquant réduit un ennemi à 0 point de dommage avec une attaque en mêlée, l'attaquant peut choisir d’assommer la créature au lieu de lui infliger un coup mortel.
 * **Manoeuvres**: Les manœuvres sont des actions spéciales :
-* **agripper**: Contre une cible ne dépassant pas le x2 de votre taille, vous pouvez remplacer une attaque par un grappin. Effectuer un jet FO+ Phys opposé par le jet FO + Phys ou DEX + Phys de l'adversaire (à son choix). Si vous réussissez, l'adversaire est saisi, réduisant sa vitesse à 0, et votre vitesse à ½. S'échapper du grappin nécessite une action et une autre série de jds opposés.
-* **Pousser**: Vous pouvez : - repousser une créature ou la faire tombée au sol (donne désavantagé en combat à distance, mais avantage au combats en mêlée, coûte ½ du mouvement à l'adversaire pour se relever), ou le pousser loin de vous. Faire un jet FO + Phys opposé par le jet FO + Phys ou DEX + Phys de l'adversaire (au choix).
+  * **agripper**: Contre une cible ne dépassant pas le x2 de votre taille, vous pouvez remplacer une attaque par un grappin. Effectuer un jet FO+ Phys opposé par le jet FO + Phys ou DEX + Phys de l'adversaire (à son choix). Si vous réussissez, l'adversaire est saisi, réduisant sa vitesse à 0, et votre vitesse à ½. S'échapper du grappin nécessite une action et une autre série de jds opposés.
+  * **Pousser**: Vous pouvez : - repousser une créature ou la faire tombée au sol (donne désavantagé en combat à distance, mais avantage au combats en mêlée, coûte ½ du mouvement à l'adversaire pour se relever), ou le pousser loin de vous. Faire un jet FO + Phys opposé par le jet FO + Phys ou DEX + Phys de l'adversaire (au choix).
 * **Abrit**: L' abrit s'ajoute à la CA et aux jds DEX d'une créature, comme suit:
-    * **A demi-couvert**: +2
-    * **3/4 Couvert**: +5
-    * **Couverture complète**: non ciblable par des attaques et (la plupart) des sorts
-
+  * **A demi-couvert**: +2
+  * **3/4 Couvert**: +5
+  * **Couverture complète**: non ciblable par des attaques et (la plupart) des sorts
 
 ## Annexe B : Listes de sorts
+
 **Jds and Scaling (Scaling)**: A moins qu'un sort mentionne spécifiquement l'utilisation d'une attaque de sort ou le fait de ne pas accorder de jds, la cible d'un sort peut résister en effectuant un jds: FO/DEX/ESP appropriée. Si un sort inflige des dégâts, le fait de réussir  le jds réduit de ½ les dégâts infligés.
+
 Certains sorts peuvent être lancé dans un emplacement de sort de niveau (Y+1)ème ou supérieur, il a un effet d'échelle, le sort est plus puissant.
+
 ### Sorts d'Arcane
+
 #### 1er niveau
+
 * **Charme Personne**: Charme une personne durée 1h .
 * **Plume Automne**: 5 créatures tombent lentement pendant 1 minute ou jusqu'à l'atterrissage.
 * **Disque flottant**: Crée un disque horizontal de 3 pieds de diamètre qui peut contenir 500 lb durée 1h.
@@ -436,7 +489,9 @@ Certains sorts peuvent être lancé dans un emplacement de sort de niveau (Y+1)�
 * **bizarre** : L'illusion effrayante 4d10 dommage/tours les sujets dans un rayon de 30 pieds.
 
 ### Sorts Divins
-#### 1er niveau de sorts divin 
+
+#### 1er niveau de sorts divin
+
 * **bless** : 3 alliés peuvent ajouter 1d4 à chaque jet d'attaque ou de sauvegarde pendant une minute (concentration.) +1 allié pour chaque niveau de sort au-dessus du 1er.
 * **Créez ou détruisez de l'eau** : Créez/détruisez 10 gallons d'eau dans un contenant ouvert ; ou créez de la pluie/détruisez du brouillard dans un cube de 30 pieds cubes ; +2 gallons/+5 pieds cubes par sort au-dessus du 1er niveau.
 * **cure wounds** : Guéri de 1d8 + pv modificateur ESP ; +1d8 PV/niveau de sort au-dessus du 1er.
@@ -488,31 +543,36 @@ Certains sorts peuvent être lancé dans un emplacement de sort de niveau (Y+1)�
 * **Mot de rappel** : Vous téléporte, avec 5 alliés, à l'église ou temple de votre divinité , visité en dernier lieu.
 
 
-#### 7ème niveau Sorts Divins 
+#### 7ème niveau Sorts Divins
+
 * **Parole Divine** : Tous les ennemis à l'écoute sont bannis dans leur plan d'origine (s'ils sont extraplanaires), ou subissent un effet dépendant de leur PV actuelle (50 - PV, assourdis pendant[50 moins PV actuelle] minutes ; 30 - PV, aveugles, assourdis et assommés pendant 1 heure ; 20 PV, tués sur le coup).
 * **éthéréalité** : 1 créature devient éthérée. +1 créature pour chaque niveau de sort au-dessus de la 7ème.
 * **Tempête de feu** : Dans un cube de 10 ft. Toutes les créatures subissent des dégâts de feu 7d10. Les objets non surveillés prennent feu.
 * **déplacement dans les plans**:Vous et 8 créatures volontaires êtes téléportés dans un autre plan. Alternativement, lors d'une attaque avec ce sort, une créature hostile est téléportée dans un plan de votre choix.
 * **Régénération** : Les membres coupés , repoussent et se régénèrent 4d8 + 15 HP par round pendant 1 heure.
 * **Résurrection** :  Restaurez 1 PV à quelqu'un qui était mort depuis moins d'un siècle.
+
 #### 8ème niveau Sorts Divins 
+
 * **Champ d'antimatière** : Nie la magie dans un rayon de 10 pieds pendant 1 heure (concentration).
 * **Control météo** : Changer le temps actuel pendant 8 heures (concentration.)
-*** Tremblement de terre** : Provoquer un tremblement de terre dans un rayon de 100 pieds, endommageant les structures et créant des fissures dangereuses. Si une grande structure tombe, elle cause des dégâts de matraquage 5d6.
+* **Tremblement de terre** : Provoquer un tremblement de terre dans un rayon de 100 pieds, endommageant les structures et créant des fissures dangereuses. Si une grande structure tombe, elle cause des dégâts de matraquage 5d6.
 * **Aura Sacré** : Dans un rayon de 30 pieds, les alliés ont l'avantage jds, les ennemis ont un désavantage sur les attaques et les démons et les morts-vivants sont aveugles.
 
 
 #### 9ème niveau Sorts Divins
+
 * **Projection astrale** : Projette vous et 8 compagnons sur un plan Astral.
 * **Portail** : : Relie deux plans pour voyager ou appeler. Durée 1 min (concentration.)
 * **Soins de masse** : Guérissez 700 PV à toutes les créatures à portée (répartir au choix) ; guéri aussi toutes les maladies,la cécité & la surdité.
 * **Vraie Résurrection** : Ressuscite une créature, morte dans les 200 dernières années,  avec un nouveau corps.
 
 ## Annexe C: le pouvoir des sortiléges
+
 Toute magie exige de posséder un pouvoir et de connaitre des formules magiques : une gestuelle et un domaine de pouvoir divin ou arcanique 
 Chaque lanceur de 1er niveau commence par connaître 3 formules magiques, mais doit connaître au moins une gestuelle et un et un domaine pouvoir divin ou arcanique. Ils apprennent de nouvelles formule magique tous les 3 niveaux (3, 6, 9, etc.).
 
-> #### Règles optionnelles
+> **Règles optionnelles**
 >
 > * **Magie blanche et noire** : Les clercs tirent leur pouvoir de la magie blanche, et ne peuvent pas utiliser leur magie pour nuire directement à un individu. Les mages tirent leur pouvoir de la magie noire et peuvent ne pas guérir directement un individu.
 > * **Spécialisation élémentaire** : Au début d'une journée, un lanceur qui connaît un sort doit choisir un type particulier de dégâts (acide, feu, etc.) Pour cette journée, il ne peut utiliser le Domaine de l'Energie qu'en fonction de ce type de dégâts. Alternativement, faites en sorte qu'un lanceur de sorts choisisse un type de dégâts en apprenant l'énergie - leur magie n'est capable d'interagir qu'avec ce type d'énergie.
@@ -521,42 +581,42 @@ Chaque lanceur de 1er niveau commence par connaître 3 formules magiques, mais d
 
 * **Améliorer** ("augeo") : Renforcer, Guérir, Agrandir, Réparer, Affûter, etc.
 * **Diminuer** (infirmo) : Affaiblir, endommager, blesser, réduire, briser, émousser, émousser, détériorer, etc.
-* ***Communiquer avec*** (defero) : Sentir, lire, chercher, informer, déterminer, comprendre, comprendre, etc.
+* **Communiquer avec** (defero) : Sentir, lire, chercher, informer, déterminer, comprendre, comprendre, etc.
 **Control** (tempero) : Formez, Maintenez, Commandez, Formez, Dirigez, Dictez, etc. (Le contrôle ne peut être appris qu'après que toutes les autres actions aient été apprises.)
 
 ### Les cinq spécialités
+
 * **Corp** (corpus) : Des corps d'êtres vivants, des plantes.
 * **Savoir** (mentus) : La pensée, le sentiment et la partie consciente d'une entité.
 * **Esprit** (animosité) : Essence ou âme. (L'esprit ne peut être appris qu'après que vous ayez au moins trois royaumes et trois actions.)
 * **Energie** (navitas) : Le feu, l'eau liquide, l'air, la magie, l'électricité et (en option) le temps.
 * **Matière** ("materia") : Matériaux solides et insensibles comme la pierre, la glace, le métal, le bois, le cuir, le papier, etc.
-___
-Si le lanceur tente simplement d'endommager une autre créature, il lance une attaque magique contre CA. Sinon, la créature doit faire un jet de sauvegarde contre le sort du lanceur de sorts DD.
 
- (Le jds approprié est décidé par le MJ. Par exemple, esquiver une boule de feu peut être jds DEX, tandis que résister aux effets du contrôle mental peut être jds ESP.)
+Si le lanceur tente simplement d'endommager une autre créature, il lance une attaque magique contre CA. Sinon, la créature doit faire un jet de sauvegarde contre le sort du lanceur de sorts DD. (Le jds approprié est décidé par le MJ. Par exemple, esquiver une boule de feu peut être jds DEX, tandis que résister aux effets du contrôle mental peut être jds ESP.)
 
 
 **Dommages et soins** commencent à 3d6 au niveau de sort 1, et augmentent de 3d6 à chaque niveau de sort.
-___
+
 Pour **d'autres effets** en plus des dégâts simples et de la guérison, lancez le dé à partir de 2d6 au niveau de sort 1, et augmentez de 2d6 à chaque niveau de sort.
 
 * Si la cible rate son jds et que ses pv actuel sont inférieur aux dégâts infligés, elle est instantanément affectée par le sort mais ne subit aucun dommage.
 * Si la cible rate son jds, et que son PV actuel est supérieur aux dégâts infligés, elle subit le jet de dé mais n'est pas affectée par le sort.
 * Si la cible réussit son jet de sauvetage, elle subit la moitié des dégâts infligés.
-___
+
 Les effets positifs utilisés sur les cibles volontaires contournent le besoin de jds et prennent effet immédiatement. Une créature ne peut être transformée qu'en quelque chose d'égal ou de moindre CR/niveau par rapport à elle-même.
-___
-Durée : Les sorts qui affectent les objets inanimés sont généralement permanents ; les feux créés par magie, etc., s'éteignent naturellement. Les créatures vivantes sont affectées pendant 1 round par niveau de sort du sort qui les affecte. Un lanceur de sorts peut se concentrer sur un sort afin de le garder actif plus longtemps. Pendant sa concentration, il ne peut lancer aucun sort exépté des dégâts simples, sorts de soins & cantrips.
+
+**Durée** : Les sorts qui affectent les objets inanimés sont généralement permanents ; les feux créés par magie, etc., s'éteignent naturellement. Les créatures vivantes sont affectées pendant 1 round par niveau de sort du sort qui les affecte. Un lanceur de sorts peut se concentrer sur un sort afin de le garder actif plus longtemps. Pendant sa concentration, il ne peut lancer aucun sort exépté des dégâts simples, sorts de soins & cantrips.
 
 ## Annexe D : Objets magiques (OM)
+
 Pour faire rapidement des OM, choisissez entre un OM **de sorts** qui reproduit un sort des annexes B ou C, ou un OM **de bonus** qui fournit un bonus de +1 à +3 aux jets d'attaque & de dégâts (armes), ou CA (armures & boucliers.) Tous les OM bonus, & certains OM nécessitent **une symbiose avec le porteur**, chaque personnage ne peut porter que 3 OM nécessitant une symbiose .
-___
+
 Il existe trois types d' objets magique:
 
 * **Consommables** :  usage unique ex: potions, parchemins.
 * **Utilisation renouvelable** (symbiose) : Rechargeable, habituellement 3 charges/jour, soit 4h d'effet par jour.
 * **Utilisation constante** (symbiose) : Effet continu.
-___
+
 voir le tableau pour distribuez des OM & prix de revente:
 
 |Rareté | Niv mini | Côut Po | Niv de sorts | CA | Arme | 
@@ -573,33 +633,35 @@ voir le tableau pour distribuez des OM & prix de revente:
 
 Pour faire des monstres à la volée, utilisez ces règles :
 1. Choisissez le chalenge du défi des monstres.
-    * **PV**= (5 x CR)d8 or 20 x CR
-    * **CA**= 12 + prof. bonus (max 19)
-    * **jds**= 12 + bonus de maîtrise
-    * **DPT** (Dommage Par Tours)= 8 + (6 x CR)
-    * **Bonus d' attaque**= 3 + bonus de maîtrise
-    * **Bonus de maîtrise**= Traitez le CR comme un niveau et utilisez le bonus de maîtrise indiquée dans la section Avancement.
+  * **PV**= (5 x CR)d8 or 20 x CR
+  * **CA**= 12 + prof. bonus (max 19)
+  * **jds**= 12 + bonus de maîtrise
+  * **DPT** (Dommage Par Tours)= 8 + (6 x CR)
+  * **Bonus d' attaque**= 3 + bonus de maîtrise
+  * **Bonus de maîtrise**= Traitez le CR comme un niveau et utilisez le bonus de maîtrise indiquée dans la section Avancement.
 2. Ajustez les stats offensives (DD jds, bonus maitrise , bonus attaque), et défensives (CA, PV) comme il vous plait. Traitez les monstres ayant un CR  élevé avec stats offensives ou défensives. Pour chaque CR augmentez, vous devez diminuer le CR dans le type de stat opposé. ex: + de bonus attaque & - de PV
 3. Choisissez un modèle de monstre. (xDPT= x fois dommage par tours.)
 
-    * **Aberration**: multiattaque (2 tentacules), tentacules (0,5 DPT dmg, jds FO sauvé ou paralysé. Si la cible est paralysée et que les dommages réduisent la cible à 0 PV, le cerveau de la cible est mangé.)
-    * **Bête**: multi-attaque (griffe et morsure), griffe (0,5 DPT dmg), morsure (0,5 DPT dmg)
-    * **Draconic**: arme de souffle (DPT dmg, jds DEX pour éviter), morsure (0.5 DPT dmg)
-    * **Élémentaire**: écrasement (0,6 DPT dmg), agonie mortelle (quant la créature meurt, faire jds FO ou prendre 0,6 DPT dmg)
-    * **Fée**: multiattaque (2 attaques), trique de bois/arc court (0.5 DPT dmg), charme fée (jds ESP ou devenir ami 24 h), invisibilité (jusqu'à attaque ou  utilise charme fée)
-    * **Diabolique**: aura (début du tour, 0,3 DPT dmg à 5 pieds autours de lui), trident (0,6 DPT dmg), boule de feu (0,6 DPR dmg)
-    * **Géant**: punch (DPT dmg), rocher (DPT dmg)
-    * **Morts-vivants**: multi-attaque, aspiration de vie (0,4 DPT, jds FO ou réduire le PV max de la victime par dmg pris), & claquement (0,5 DPR)
-    * **Vermine**: morsure/piqûre (DPT dmg, jds FO ou empoisonné causant un désavantage sur les attaques), toile/glue (jds DEX ou retenu)
+  * **Aberration**: multiattaque (2 tentacules), tentacules (0,5 DPT dmg, jds FO sauvé ou paralysé. Si la cible est paralysée et que les dommages réduisent la cible à 0 PV, le cerveau de la cible est mangé.)
+  * **Bête**: multi-attaque (griffe et morsure), griffe (0,5 DPT dmg), morsure (0,5 DPT dmg)
+  * **Draconic**: arme de souffle (DPT dmg, jds DEX pour éviter), morsure (0.5 DPT dmg)
+  * **Élémentaire**: écrasement (0,6 DPT dmg), agonie mortelle (quant la créature meurt, faire jds FO ou prendre 0,6 DPT dmg)
+  * **Fée**: multiattaque (2 attaques), trique de bois/arc court (0.5 DPT dmg), charme fée (jds ESP ou devenir ami 24 h), invisibilité (jusqu'à attaque ou  utilise charme fée)
+  * **Diabolique**: aura (début du tour, 0,3 DPT dmg à 5 pieds autours de lui), trident (0,6 DPT dmg), boule de feu (0,6 DPR dmg)
+  * **Géant**: punch (DPT dmg), rocher (DPT dmg)
+  * **Morts-vivants**: multi-attaque, aspiration de vie (0,4 DPT, jds FO ou réduire le PV max de la victime par dmg pris), & claquement (0,5 DPR)
+  * **Vermine**: morsure/piqûre (DPT dmg, jds FO ou empoisonné causant un désavantage sur les attaques), toile/glue (jds DEX ou retenu)
 
 4. Ajoutez toutes les capacités spéciales souhaitées. (ex: vol ou lancer de sorts.)
 5. Ajoutez des résistances (½dommages d'origine spécifique) ou des immunités (non affecté par une source spécifique.) Si vous ajoutez des résistances ou quelques immunités, multipliez les points de dégats par les valeurs suivantes : CR 1-4 (0,5), CR 5-8 (0,7), CR 11-16 (0,8) CR 17+ (1)
-    * **Types de dommages physique**: Tranchant, perssant, contondant.
-    * **Types de dommage Magique**: acide, feux, cold, poison, necrotic, radiant, foudre, psychique, tonerre & force
-    * **Condition d'immunités**: paralisé, empoisoné, charmé, etc...
+  * **Types de dommages physique**: Tranchant, perssant, contondant.
+  * **Types de dommage Magique**: acide, feux, cold, poison, necrotic, radiant, foudre, psychique, tonerre & force
+  * **Condition d'immunités**: paralisé, empoisoné, charmé, etc...
 
 ## Annexe F: Boss Monsters
+
 Un monstre patron peut faire des choses que les créatures ordinaires ne peuvent pas faire. Grâce à sa **résistance légendaire**, il peut changer un jds raté par un succès un certain nombre de fois par jour, et utiliser ses **actions légendaires** il peut agir à la fin du tour d'une autre créature un certain nombre de fois par tour. Les actions qu'elle peut entreprendre de cette manière sont les suivantes :
+
 * **Coûts 1 Action** : Faites une seule attaque, bougez, lancez un Cantrip
 * **Coûts 2 Actions** : Utilisez une capacité spéciale, lancez un sort, multi-attaque
 
@@ -613,7 +675,9 @@ Pour transformer un monstre ordinaire en monstre boss, choisissez un Tier ci-des
 | Epic | 4 | +50 | +4 |
 
 ## Annexe G : Mise à l'échelle des monstres
+
 Pour mettre à l'échelle les monstres du Bestiaire, ou les règles de base de la cinquième édition, déterminez simplement ce que vous voulez que le nouveau CR soit, puis utilisez les réglages ci-dessous :
+
 * **Bonus de maîtrise** = traiter le CR=niveau, et utilisez le bonus  de maîtrise indiquée dans la section Evolution p5.
 * **ΔCR** = Nouveau CR - vieux CR 
 * **PV** = +20 PV x ΔCR
@@ -624,16 +688,15 @@ Pour mettre à l'échelle les monstres du Bestiaire, ou les règles de base de l
 * **Bonus d attaque** = +Δbonus de stat
 
 **Des pouvoirs mortels** : Lorsque l'on réduit à l'échelle des créatures ayant des capacités assez mortelles, il est également suggéré que la gravité de la condition soit réduite. Par exemple, le regard pétrifiant d'une méduse peut devenir un regard paralysant pour une méduse CR 1.
-
 **Multi-attaque** : Lors de la mise à l'échelle, si l'augmentation du DPT est jamais (approximativement) égale à l'une des attaques d'une créature, pensez à lui donner une attaque multiple au lieu d' une simple attaque deux fois plus forte. Lors de la réduction d'échelle, si la diminution du DPT l'une des attaques d'une créature et proche de 0, pensez à lui retirer une de ses attaques multiple (ou à retirer complètement une attaque multiple si la créature a seulement deux attaques).
 
 ## Appendix H: Quick Loot Tables
-(Tiré de [cette table](https://www.reddit.com/r/DnDBehindTheScreen/comments/54stxb/the_1d6_loot_table/) par Justin McGuire. Utilisé avec permission.)
-___
+<small>(Tiré de [cette table](https://www.reddit.com/r/DnDBehindTheScreen/comments/54stxb/the_1d6_loot_table/) par Justin McGuire. Utilisé avec permission.)</small>
+
 Suivez ces 2 étapes pour créer un trésor 
 appartenant à un grand groupe de créatures, ou à une seule créature puissante.
 
-#### 1) Lancer 1d6, ou choisissez le type de &nbsp;&nbsp;propriaitaire.
+### 1) Lancer 1d6, ou choisissez le type de &nbsp;&nbsp;propriaitaire.
 | 1d6 | type de propriaitaire| Contents |
 |:---:|:----------|:--------|
 | 1 | Le Sentimental | 75 PO, 1 piece d'art |
@@ -643,24 +706,25 @@ appartenant à un grand groupe de créatures, ou à une seule créature puissant
 | 5 | Le banquier | 500 PO |
 | 6 | L'ancien ordre | 300 PO, 15 joyaux, 6 pieces d'art |
 
-#### 2) Effectuer des ajustements en fonction &nbsp;&nbsp;du propriétaire
+### 2) Effectuer des ajustements en fonction &nbsp;&nbsp;du propriétaire
+
 **Monsters CR 0-4, les familles les plus communes, et les commerçants simples:**
 
 * Les pierres précieuses valent 10 pièces d'or*(Quartz bleu, Malachite, Oeil de tigre)*
 * Les objets d'art valent 25 pièces d'or *(dés d'os, bracelet d'or, petit miroir. )*
-___
+
 **Monstres CR 5-10, nobles, et entreprises populaires:**
 
 * Multipliez l'or par 10
 * Les pierres précieuses valent 100 pièces d'or *(Ambre, Corail, Jade) 
 * Les objets d'art valent 250 pièces d'or *(boîte de figurines animales turquoises, robe de soie, collier d'argent)*
-___
+
 **Monstres CR 11-16, rois et grands sorciers:**
 
 * Multipliez l'or par 100
 * Les pierres précieuses valent 1000 Po *(Emeraude, Opale, Saphir)*
 * Les objets d'art valent 2500 Po *(boîte à musique dorée, peinture ancienne, cache-oeil avec oeil en saphir fantaisie)*
-___
+
 **Monstres CR 17+, liches et vieux dragons**
 
 * Multipliez l'or par 1000
@@ -668,27 +732,28 @@ ___
 * Triplez le nombre d'objets d'art, et chacun vaut 7500 Po *(sarcophage en or de la taille d'un enfant, jeu d'échecs en jade et dragon en or, couronne d'or bijou)*
 
 ## Annexe I : Génération aléatoire de donjons
+
 Si vous n'avez pas beaucoup de temps pour préparer un donjon à l'avance, suivez la procédure suivante :
+
 1. Prenez une feuille de papier millimétré. (Du papier non graphique fera l'affaire en un clin d'œil.)
 2. Prends une poignée de d6.
 3. Lancez les dés d'un seul coup et laissez-les atterrir où ils veulent sur le papier. (Il peut être utile d'avoir une boîte pour limiter les dés au papier.)
 4. Tous les d6 sont des pièces. Le nombre de sorties de cette pièce est basé sur la valeur du d6 :
-    * 1-2 : 1 sortie ; 3-4 : 2 sorties ; 5-6 : 3 sorties.
+  * 1-2 : 1 sortie ; 3-4 : 2 sorties ; 5-6 : 3 sorties.
 5. Ajoutez des couloirs reliant les pièces selon votre goût.
-    * **Contenu** : Afin de déterminer avec quoi remplir une pièce, roulez un d6 :
-        * 1 : Vide, 2 : Vide sauf pour le trésor, 3 : Monstre, 4 : Monstre et trésor, 5 : Piège, 6 : Spécial.
-    * **But de la quête** : Lancez un D8 :
-    	* 1. Capture, 2. récupérer, 3. vaincre, 4. découvrir, 5. détruire, 6. s'échapper, 7. trouver, 8. négocier, 9. obtenir, 10. Protégez, 11. Sauvetage, 12. Survivre
-    * **rebondissements** : Pour garder les choses intéressantes, prévoyez  1-3 rebondissement qui auront lieu dans le donjon. Pour rouler un rebondissement, roulez 2d6 :
-    	* 1-2 : PNJ..., 3. organisation..., 4. événement physique, 5. événement émotionnel..., 6. objet.....
-        * 1 : ...apparaît, 2...change l'emplacement, 3...aide le groupe, 4-5. ...gêne le groupe, 6...change le but.
-    * **PNJs**: Lancez ce qui suit pour un PNJ aléatoire.
-    	* **Personalité** (d8) : 1. grincheux, 2. athlète, 3. paresseux, 4. pétillant, 5.dédaigneux, 6. snobe, 7. doux, 8. rouler un rebondissement.
-    * **Domaine d'expertise** (d4): 1. Communication, 2. subterfuge, 3. connaissance, 4. physique
-    * **Rôle social** (d6): 1-3 : Productivité, 4-5 : Militaire, 6 : Souveraineté
-    * **Motivation** (d8): 1. Amour, 2. haine, 3. avidité, 4. ambition, 5. peur, 6. besoin, 7. idéalisme, 8. cynisme.
-    * **noms**
-    	
+6. **Contenu** : Afin de déterminer avec quoi remplir une pièce, roulez un d6 :
+  * 1 : Vide, 2 : Vide sauf pour le trésor, 3 : Monstre, 4 : Monstre et trésor, 5 : Piège, 6 : Spécial.
+7. **But de la quête** : Lancez un D8 :
+  * 1. Capture, 2. récupérer, 3. vaincre, 4. découvrir, 5. détruire, 6. s'échapper, 7. trouver, 8. négocier, 9. obtenir, 10. Protégez, 11. Sauvetage, 12. Survivre
+8. **rebondissements** : Pour garder les choses intéressantes, prévoyez  1-3 rebondissement qui auront lieu dans le donjon. Pour rouler un rebondissement, roulez 2d6 :
+  * 1-2 : PNJ..., 3. organisation..., 4. événement physique, 5. événement émotionnel..., 6. objet.....
+  * 1 : ...apparaît, 2...change l'emplacement, 3...aide le groupe, 4-5. ...gêne le groupe, 6...change le but.
+9. **PNJs**: Lancez ce qui suit pour un PNJ aléatoire.
+  * **Personalité** (d8) : 1. grincheux, 2. athlète, 3. paresseux, 4. pétillant, 5.dédaigneux, 6. snobe, 7. doux, 8. rouler un rebondissement.
+  * **Domaine d'expertise** (d4): 1. Communication, 2. subterfuge, 3. connaissance, 4. physique
+  * **Rôle social** (d6): 1-3 : Productivité, 4-5 : Militaire, 6 : Souveraineté
+  * **Motivation** (d8): 1. Amour, 2. haine, 3. avidité, 4. ambition, 5. peur, 6. besoin, 7. idéalisme, 8. cynisme.
+  * **noms**	
     * **Préfixe masculin** (d12): 1. Alab, 2. And, 3. Bed, 4. Don, 5. Edw, 6. Gond, 7. Mord, 8. Per, 9. Rod, 10. Theod, 11. Trist, 12. Uth
     * **suffix Male** (d12): 1. ane, 2. ard, 3. astyr, 4. istair, 5. ore, 6. oryan, 7. yctor, 8. yn, 9. ynak, 10. yrick, 11. yval, 12. ywyr
     * **Préfixe féminin** (d12): 1. Barb, 2. Bellad, 3. Carol, 4. Chryst, 5. El, 6. Elyz, 7. Evel, 8. Gwyn, 9. Morg, 10. Vann, 11. Vyct, 12. Ys
@@ -696,10 +761,11 @@ Si vous n'avez pas beaucoup de temps pour préparer un donjon à l'avance, suive
     * **Surnom** (d12): 1. le tueur, 2. le crado, 3. la muse, 4. le rouge, 5. le nécessiteux, 6. l'expert, 7. le bossu, 8. le bref, 9. l'idiot du village, 10. le pauvre, 11. le fou, 12. de (localisation)
 
 ## Annexe J : Classes supplémentaires
+
 Des classes plus difficiles à utiliser dans votre jeu. Leur mécanique est un peu plus complexe que celle des classes de base. Si vous utilisez ces classes, il est également recommandé d'utiliser l'annexe A.
 
-#### Barde
-___
+### Barde
+
 * **Compétence & jds maîtrisé**: Communication, DEX or ESP jds (choisissez en un)
 * **Maîtrise des armures**: Armure légère, boucliers
 * **Arcane** or **Lancer de sort divin** (choisissez en un): En tant que clerc ou mage, ou choisissez six sorts de barde de n'importe quel niveau que vous pouvez lancer dans la cinquième édition des règles de base ou SRD.
@@ -710,8 +776,8 @@ ___
 * **Le pointage d'habileté augmente** : Comme celui des lanceurs de sorts.
 * **Dégâts causés par une arme improvisée** : style Roublards
 
-#### Barbare
-___
+### Barbare
+
 * **Compétence & jds maîtrisé**: Physique, FO
 * **Maîtrise des armures**: Bouclier
 * **Défense sans armure**: Votre CA est égal à 10 + votre bonus DEX + votre bonus FO.
@@ -725,8 +791,8 @@ ___
 * **Le score d'habileté augmente** : Comme celui d un lanceur de sorts (As Caster (revoir la traduction))
 *** Dégâts causés par une arme improvisée** : Comme pour un  guèrrier.
 
-#### Moine
-___
+### Moine
+
 * **Compétence & jds maîtrisé**: Physique ou Connaissances (en choisir une), jds FO ou DEX
 * **Maîtrise des armures**: Aucunes
 * **Défense sans armure** : CA=10 + bonus DEX + bonus ESP.
@@ -739,8 +805,8 @@ ___
 * **Le pointage d'habileté augmente** : Comme celui d' un lanceur de sorts
 * **Dégâts causés par une arme improvisée** : Comme pour les Roublards
 
-#### Paladin
-___
+### Paladin
+
 * **Compétence & maîtrisé**: Physical or Communication (pick one), jds ESP
 * **Maîtrise des armures**: Toutes les armures, bouclier.
 * **Attaques Multiple**: Vous gagnez une attaque supplémentaire au 5ème niveau.
@@ -752,8 +818,8 @@ ___
 * **Le pointage d'habileté augmente** : Comme un lanceur de sorts
 * **Dégâts causés par une arme improvisée** : comme les Guérriers
 
-#### Druide
-___
+### Druide
+
 * **Compétence & jds maîtrisé**: Communication ou connaissances (choisissez en un), jds ESP
 * **Maîtrise des armures**: Armure moyenne, boucliers (les druides ne porteront pas d'armure et n'utiliseront pas de boucliers en métal)
 * **Lancer de sort divin**: En tant que clerc, choisissez six sorts de barde de n'importe quel niveau que vous pouvez lancer dans la cinquième édition des règles de base ou SRD.
@@ -766,14 +832,13 @@ temps maximum de transformation= 1/2 niveau arrondi à l' inférieur.
 | 2ém | 1/4 | Pas de vitesse de vol ou de nage | Loup |
 | 4ém | 1/2 | Pas de vitesse de vol | Crocodile |
 | 8ém | 1 | - | Aigle géant |
-___
+
 * **Equipement de départ** : armure en cuir (+1 CA armure légère), bouclier en bois, baguette de gui, une arme (et munitions si applicable), 5 Po, un pack rapide (voir équipement)
 * **Le pointage d'habileté augmente** : Comme celui des lanceurs de sorts.
 * **Dégâts causés par une arme improvisée** : En tant qu' un clerc
 
+### Rôdeur
 
-#### Rôdeur
-___
 * **Compétence & jds maîtrisé**: physiques ou de connaissances (en choisir une), Jds FO ou DEX (en choisir une)
 * **Maîtrise des armures**: Armure moyenne, boucliers
 * **Attaques multiples** : Vous gagnez une attaque supplémentaire au 5ème niveau. Au niveau 11, vous pouvez utiliser votre action pour effectuer des attaques à distance contre n'importe quel créatures dans un rayon de 10 pieds que vous pouvez voir à portée de votre arme.
@@ -787,80 +852,8 @@ ___
 * **Le pointage d'habileté augmente** : Comme un jeteur de sort
 * **Dégâts causés par une arme improvisée** : Style Guerrier
 
-## OPEN GAME LICENSE Version 1.0a
+----
 
-The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved.
+Crée par Thomas McDermott, Modifier par Roberto Kingsley et traduit par Christophe Pauchet.
 
-1. Definitions: (a)”Contributors” means the copyright and/or trademark owners who have contributed Open Game Content; (b)”Derivative Material” means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) “Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)”Open Game Content” means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) “Product Identity” means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) “Trademark” means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) “Use”, “Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) “You” or “Your” means the licensee in terms of this agreement. Not for resale. Permission granted to print or photocopy this document for personal use only.
-
-2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
-
-3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
-
-4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
-
-5.Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
-
-6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
-
-7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
-
-8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
-
-9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
-
-10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
-
-11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
-
-12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
-
-13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
-
-14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
-
-15. COPYRIGHT NOTICE
-* Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
-* System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
-* System Reference Document Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on original material by E. Gary Gygax and Dave Arneson;
-* System Reference Document 5.0. Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
-* Microlite20 © 2006; Seth Drebitko, Robin V. Stacey
-* Wayfarer M20, Copyright 2011, Wyatt Bury
-* Microlite5E, 2015 Chris Sakkas: https://grimportents.wordpress.com/2015/01/07/microlite5e-a-trim-hack-of-5e-thats-backwards-compatible/
-* A Magical Medieval Society: Western Europe Copyright 2003, Expeditious Retreat Press; authors Suzi Yee and Joseph Browning.
-* Challenging Challenge Ratings: Immortals Handbook, Copyright 2003, Craig Cochrane.
-* Design Parameters: Immortals Handbook, Copyright 2003, Craig Cochrane.
-* Encountering Encounter Levels: Immortals Handbook, Copyright 2003, Craig Cochrane.
-* Grim Tales, Copyright 2004, Benjamin R. Durbin, published by Bad Axe Games, LLC.
-* Heroes of High Favor: Elves. Copyright 2002, Benjamin R. Durbin; published by Bad Axe Games, LLC.
-* Immortals Handbook, Copyright 2007, Craig Cochrane
-* Kim D&D. Copyright 2011. Kim E. Lumbard http://www.ugcs.caltech.edu/~kel/KDD/3.5/Crafting35.shtml
-* Modern Player’s Companion, Copyright 2003, The Game Mechanics, Inc.; Author: Stan!
-* Modern System Reference Document Copyright 2002, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.
-* Monster’s Handbook Copyright 2002, Fantasy Flight Publishing, Inc.
-* Monte Cook Presents: Iron Heroes, Copyright 2005 Monte J. Cook. All rights reserved.
-* Monte Cook’s Arcana Unearthed, Copyright 2003, Monte J. Cook. All rights reserved.
-* Mutants and Masterminds Copyright 2002, Green Ronin Publishing.
-* Original Spell Name Compendium Copyright 2002 Clark Peterson; based on NPC-named spells from the Player’s Handbook that were renamed in the System Reference Document. The Compendium can be found on the legal page of www.necromancergames.com;
-* Pathfinder Roleplaying Game Beta playtest edition. Copyright 2008, Paizo Publishing, LLC; Author: Jason Bulmahn.
-* Pathfinder Roleplaying Game Conversion Guide, Copyright 1009. Paizo Publisihing, LLC; Author: Jason Bulmahn
-* Poisoncraft: The Dark Art, Copyright 2004, Justin D. Jacobson. 
-* Spycraft Copyright 2002, Alderac Entertainment Group.
-* Swords of Our Fathers Copyright 2003, The Game Mechanics.
-* The Book of Experimental Might. Copyright 2008, Malhavoc Press; Author: Monte J. Cook.
-* Trailblazer, Copyright 2009, Benjamin R. Durbin, published by Bad Axe Games, LLC.
-* Ultramodern Firearms d20, Copyright 2002, Charles McManus Ryan.
-* Unearthed Arcana Copyright 2004, Wizards of the Coast, Inc.; Andy Collins, Jesse Decker, David Noonan, Rich Redman.
-* (Not So) Legendary Actions, Copyright 2016, Igor Moreno.
-* D6 Adventure (WEG51011), Copyright 2004, Purgatory Publishing Inc.
-<!--just used for getting started-->
-* Micropend6, Copyright 2015, Sigil Stone Publishing
-* West End Games, WEG, and D6 System are trademarks and properties of Purgatory Publishing Inc.
-* Microlite20 Character Sheet, Copyright 2016, Thomas McDermott
-* M20 Fifth © 2017, Roberto Kingsley
-
-Translate with www.DeepL.com/Translator
-
-END OF LICENSE
-
-The text of this product is 100% Open Game Content.
+Publié sous la licence Open Game.
