@@ -3,11 +3,13 @@
 [TOC]
 
 ## Qu'est-ce que c'est ?
+
 Il s'agit d'une version réduite et subminiaturisée de la cinquième édition du jeu de rôle le plus populaire du monde (voir la licence pour plus d'informations) qui a été conçue pour être rapide et facile à jouer.
 
 Le but était de créer un jeu plus simple, mais où toutes les ressources de la cinquième édition (monstres, sorts, aventures & équipement) pourraient être utilisées sans conversion.
 
 ## Pour démarrer
+
 Formez un groupe de 2 à 6 personnes avec des dés, du papier et des crayons. L'un des joueurs est le **Maitre du jeu (MJ)**, qui exécute tous les personnages **non-joueurs (PNJ)**, il décrit l'environnement et détermine le résultat des jets.Les autres jouent des  **personnage-joueurs (PJ)**.
 
 Mettez-vous d'accord sur un **concept de jeu**, puis chaque joueur crée un **concept de personnage** qui convient. Le jeu se joue en grande partie par le biais d'un dialogue, les joueurs décrivent les tentatives d'actions de leur PJ & le MJ utilise les dés ou règles qui sont nécessaires, pour résoudre l' action. 
@@ -25,19 +27,18 @@ Ce jeu utilise des dés à 4, 6, 8, 10, 12 et 20 faces. La notation habituelle p
 |  ou d6-1 (relancer 1/6)  ou d6 (relancer 5/6) | d6+1 | d6+2 | 2d6 | 3d6<br />(16-18 crits) |
 
 ### Notes explicatives
+
 M20 5e sera plus facile à comprendre si vous êtes déjà familier avec les RPG. Pour le lecteur peu familier, les brèves explications suivantes sont offertes :
 
-**Statistiques** & **Compétences**: sont des représentation numérique des capacités physiques et mentales brutes d'un PJ & de son expertise dans des domaines spécifiques, respectivement. Cel correspond à un bonus, qui sera ajouté aux jets de dés.
-
-**Race**: L'espèce fantastique à laquelle appartient un personnage.
-
-**Classe**: Un ensemble de talents et d'aptitudes qui décrivent le métier ou le rôle d'aventurier d'un personnage.
-
-**Niveau** : A deux significations différentes, à ne pas confondre. **Le niveau de personnage** est le reflet sa croissance générale suite à l'accumulation **de points d'expérience (XP)** en franchissant des obstacles. **Le niveau de sort** est la mesure de la puissance relative d'un sort.
+<small>**Statistiques** & **Compétences**: sont des représentation numérique des capacités physiques et mentales brutes d'un PJ & de son expertise dans des domaines spécifiques, respectivement. Cel correspond à un bonus, qui sera ajouté aux jets de dés.</small>
+<small>**Race**: L'espèce fantastique à laquelle appartient un personnage.</small>
+<small>**Classe**: Un ensemble de talents et d'aptitudes qui décrivent le métier ou le rôle d'aventurier d'un personnage.</small>
+<small>**Niveau** : A deux significations différentes, à ne pas confondre. **Le niveau de personnage** est le reflet sa croissance générale suite à l'accumulation **de points d'expérience (XP)** en franchissant des obstacles. **Le niveau de sort** est la mesure de la puissance relative d'un sort.</small>
 
 ## Personnages
 
 ### Statistiques
+
 Il y a 3 statistiques : Force (**FO**), Dextérité (**DEX**) et Esprit (**ESP**). 
 
 Lancez 4d6, jetez le dé le plus bas. Faites le total des 3 dés restants et allouez-les à l'une des statistiques. Répétez l'opération pour les autres statistiques.
@@ -97,6 +98,7 @@ prenez de courtes 3 PV par dé de repos dépensé..
 * **Equipement de départ**: armure d' écaille (+4 AC armure moyenne), bouclier, symbole sacré, masse (arme à une main), 15 gp, un pack rapide (voir Equipement).
 
 ### Historique
+
 Chaque personnage doit  choisir un historique qui lui permet de maîtriser une compétence et de s'enraciner dans le monde. Chaque historique constitue un excellent point de départ pour les jeux de rôle. Peut-être qu'un criminel a des contacts dans le monde souterrain, peut-être qu'un soldat peut encore obtenir le respect des paysans patriotes, peut-être qu'un sage peut facilement trouver des informations obscures dans les livres quand il le faut.
 
 * **Contexte de la communication**: Acolyte, Noble, Héros populaire, etc.
@@ -116,7 +118,6 @@ Il n'y a que 4 compétences : **Physique, subterfuge, connaissance et communicat
 Par exemple, l'escalade utiliserait FORCE + bonus physique. Éviter une chute de pierre, c'est DEX + bonus physique. Trouver un piège est un bonus ESPRIT + Subterfuge. Désactiver un piège est un bonus DEX + Subterfuge.
 
 #### Commun DD ou DC (degrés de difficultées)
-
 
 * **Vraiment facile**: 5 
 * **Facile**: 10 
